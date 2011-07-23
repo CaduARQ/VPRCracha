@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="VPRCracha.Domain.Model.Entidades.Entidade&lt;TEntidade&gt;" Collapsed="true">
+    <Position X="6.75" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAgAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Entidade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VPRCracha.Domain.Model.Regiao">
+    <Position X="3.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Entities\Regiao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VPRCracha.Domain.Model.Cracha">
+    <Position X="3.75" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Cracha.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VPRCracha.Domain.Model.Usuario">
+    <Position X="6.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAQAAEAAAA=</HashCode>
+      <FileName>Entities\Usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
