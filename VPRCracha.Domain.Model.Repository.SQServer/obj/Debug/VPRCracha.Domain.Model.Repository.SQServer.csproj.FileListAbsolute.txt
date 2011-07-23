@@ -1,0 +1,22 @@
+C:\Users\cadu\Documents\Visual Studio 2010\Projects\VPRCracha\VPRCracha.Domain.Model.Repository.SQServer\bin\Debug\VPRCracha.Domain.Model.Repository.SQServer.dll
+C:\Users\cadu\Documents\Visual Studio 2010\Projects\VPRCracha\VPRCracha.Domain.Model.Repository.SQServer\bin\Debug\VPRCracha.Domain.Model.Repository.SQServer.pdb
+C:\Users\cadu\Documents\Visual Studio 2010\Projects\VPRCracha\VPRCracha.Domain.Model.Repository.SQServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cadu\Documents\Visual Studio 2010\Projects\VPRCracha\VPRCracha.Domain.Model.Repository.SQServer\obj\Debug\VPRCracha.Domain.Model.Repository.SQServer.dll
+C:\Users\cadu\Documents\Visual Studio 2010\Projects\VPRCracha\VPRCracha.Domain.Model.Repository.SQServer\obj\Debug\VPRCracha.Domain.Model.Repository.SQServer.pdb
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Domain.Model.Repository.SQServer\bin\Debug\VPRCracha.Domain.Model.Repository.SQServer.dll.config
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Domain.Model.Repository.SQServer\bin\Debug\VPRCracha.Domain.Model.Repository.SQServer.dll
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Domain.Model.Repository.SQServer\bin\Debug\VPRCracha.Domain.Model.Repository.SQServer.pdb
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Domain.Model.Repository.SQServer\bin\Debug\Castle.Core.dll
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Domain.Model.Repository.SQServer\bin\Debug\FluentNHibernate.dll
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Domain.Model.Repository.SQServer\bin\Debug\Iesi.Collections.dll
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Domain.Model.Repository.SQServer\bin\Debug\NHibernate.ByteCode.Castle.dll
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Domain.Model.Repository.SQServer\bin\Debug\NHibernate.dll
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Domain.Model.Repository.SQServer\bin\Debug\VPRCracha.Domain.Model.dll
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Domain.Model.Repository.SQServer\bin\Debug\VPRCracha.Domain.Model.pdb
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Domain.Model.Repository.SQServer\bin\Debug\Castle.Core.xml
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Domain.Model.Repository.SQServer\bin\Debug\FluentNHibernate.pdb
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Domain.Model.Repository.SQServer\bin\Debug\Iesi.Collections.pdb
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Domain.Model.Repository.SQServer\bin\Debug\NHibernate.ByteCode.Castle.xml
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Domain.Model.Repository.SQServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Domain.Model.Repository.SQServer\obj\Debug\VPRCracha.Domain.Model.Repository.SQServer.dll
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Domain.Model.Repository.SQServer\obj\Debug\VPRCracha.Domain.Model.Repository.SQServer.pdb
