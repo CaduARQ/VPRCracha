@@ -1,0 +1,33 @@
+﻿@model IEnumerable<VPRCracha.Domain.Model.Regiao>
+
+@{
+    ViewBag.Title = "Regiões cadastradas";
+}
+
+<h2>Regiões cadastradas</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+<br />
+
+@(Html.Telerik().Grid(Model)
+        .Name("Grid")        
+        .Columns(columns =>
+        {            
+            columns.Bound(o => o.Nome).Width(300);
+            columns.Bound(o => o.ResponsavelRegiao.Nome).Width(300);            
+        })
+        .DataBinding(dataBinding => 
+        {
+            dataBinding.Server().Select("Index", "Regiao", new { ajax = ViewData["ajax"] });
+            dataBinding.Ajax().Select("_Index", "Regiao").Enabled((bool)ViewData["ajax"]);
+        })
+        .Scrollable(scrolling => scrolling.Enabled((bool)ViewData["scrolling"]))
+        .Sortable(sorting => sorting.Enabled((bool)ViewData["sorting"]))
+        .Pageable(paging => paging.Enabled((bool)ViewData["paging"]))
+        .Filterable(filtering => filtering.Enabled((bool)ViewData["filtering"]))
+        .Groupable(grouping => grouping.Enabled((bool)ViewData["grouping"]))
+        .Footer((bool)ViewData["showFooter"])
+)

@@ -1,0 +1,27 @@
+C:\Users\cadu\Documents\Visual Studio 2010\Projects\VPRCracha\VPRCracha.Tests\bin\Debug\VPRCracha.Tests.dll
+C:\Users\cadu\Documents\Visual Studio 2010\Projects\VPRCracha\VPRCracha.Tests\bin\Debug\VPRCracha.Tests.pdb
+C:\Users\cadu\Documents\Visual Studio 2010\Projects\VPRCracha\VPRCracha.Tests\bin\Debug\nunit.framework.dll
+C:\Users\cadu\Documents\Visual Studio 2010\Projects\VPRCracha\VPRCracha.Tests\bin\Debug\nunit.mocks.dll
+C:\Users\cadu\Documents\Visual Studio 2010\Projects\VPRCracha\VPRCracha.Tests\bin\Debug\nunit.framework.xml
+C:\Users\cadu\Documents\Visual Studio 2010\Projects\VPRCracha\VPRCracha.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cadu\Documents\Visual Studio 2010\Projects\VPRCracha\VPRCracha.Tests\obj\Debug\VPRCracha.Tests.dll
+C:\Users\cadu\Documents\Visual Studio 2010\Projects\VPRCracha\VPRCracha.Tests\obj\Debug\VPRCracha.Tests.pdb
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Tests\bin\Debug\VPRCracha.Tests.dll.config
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Tests\bin\Debug\VPRCracha.Tests.dll
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Tests\bin\Debug\VPRCracha.Tests.pdb
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Tests\bin\Debug\Castle.Core.dll
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Tests\bin\Debug\FluentNHibernate.dll
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Tests\bin\Debug\Iesi.Collections.dll
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Tests\bin\Debug\NHibernate.ByteCode.Castle.dll
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Tests\bin\Debug\NHibernate.dll
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Tests\bin\Debug\Castle.Core.xml
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Tests\bin\Debug\FluentNHibernate.pdb
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Tests\bin\Debug\Iesi.Collections.pdb
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Tests\bin\Debug\NHibernate.ByteCode.Castle.xml
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Tests\obj\Debug\VPRCracha.Tests.dll
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Tests\obj\Debug\VPRCracha.Tests.pdb
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Tests\bin\Debug\VPRCracha.Domain.Model.dll
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Tests\bin\Debug\VPRCracha.Domain.Model.Repository.SQServer.dll
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Tests\bin\Debug\VPRCracha.Domain.Model.Repository.SQServer.pdb
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Tests\bin\Debug\VPRCracha.Domain.Model.pdb

@@ -1,0 +1,7 @@
+<Modules>
+  <Module PersistentId="32CF8D76-16A6-40FD-801D-87E120D3DBF8" ModuleId="VPRCracha.Domain.Model" />
+  <Module PersistentId="7177ED54-E132-43E5-98A3-08888F051D29" ModuleId="VPRCracha.Domain.Model.UITests" />
+  <Module PersistentId="2217F9F4-0B0C-4217-9ABB-F2D71308A687" ModuleId="VPRCracha.Domain.Model.UI_1" />
+  <Module PersistentId="47F5EDCC-B7D3-498E-BFF7-A83A07F8E8CD" ModuleId="VPRCracha.Domain.Model.Repository.SQServer" />
+  <Module PersistentId="4F34A750-33A6-436E-84EC-F34895A88E59" ModuleId="VPRCracha.Tests" />
+</Modules>

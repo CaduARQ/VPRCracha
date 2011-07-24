@@ -1,0 +1,77 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{27EF8C93-D4CE-4DD5-B82D-B0366194D8EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VPRCracha.Domain.Model", "VPRCracha.Domain.Model\VPRCracha.Domain.Model.csproj", "{32CF8D76-16A6-40FD-801D-87E120D3DBF8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{A9178560-E565-4309-A268-CA1C70B468D6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{EC7290E7-1E52-4350-9C55-59A5FFFD48BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VPRCracha.Domain.Model.UI", "VPRCracha.Domain.Model.UI\VPRCracha.Domain.Model.UI.csproj", "{2217F9F4-0B0C-4217-9ABB-F2D71308A687}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VPRCracha.Domain.Model.UITests", "VPRCracha.Domain.Model.UITests\VPRCracha.Domain.Model.UITests.csproj", "{7177ED54-E132-43E5-98A3-08888F051D29}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C57EE20C-0F3A-4A6D-9501-72934773FF61}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+		VPRCracha.vsmdi = VPRCracha.vsmdi
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra", "Infra", "{0CE07712-8255-48F2-AA2E-816284EA97EE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataAcess", "DataAcess", "{B834BD6B-E4B7-4EC7-9F05-37518ECAE408}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VPRCracha.Domain.Model.Repository.SQServer", "VPRCracha.Domain.Model.Repository.SQServer\VPRCracha.Domain.Model.Repository.SQServer.csproj", "{47F5EDCC-B7D3-498E-BFF7-A83A07F8E8CD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{806BCA93-CD67-49CC-9914-7027BC34952D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VPRCracha.Tests", "VPRCracha.Tests\VPRCracha.Tests.csproj", "{4F34A750-33A6-436E-84EC-F34895A88E59}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = VPRCracha.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32CF8D76-16A6-40FD-801D-87E120D3DBF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32CF8D76-16A6-40FD-801D-87E120D3DBF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32CF8D76-16A6-40FD-801D-87E120D3DBF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32CF8D76-16A6-40FD-801D-87E120D3DBF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2217F9F4-0B0C-4217-9ABB-F2D71308A687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2217F9F4-0B0C-4217-9ABB-F2D71308A687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2217F9F4-0B0C-4217-9ABB-F2D71308A687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2217F9F4-0B0C-4217-9ABB-F2D71308A687}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7177ED54-E132-43E5-98A3-08888F051D29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7177ED54-E132-43E5-98A3-08888F051D29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7177ED54-E132-43E5-98A3-08888F051D29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7177ED54-E132-43E5-98A3-08888F051D29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47F5EDCC-B7D3-498E-BFF7-A83A07F8E8CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47F5EDCC-B7D3-498E-BFF7-A83A07F8E8CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47F5EDCC-B7D3-498E-BFF7-A83A07F8E8CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47F5EDCC-B7D3-498E-BFF7-A83A07F8E8CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F34A750-33A6-436E-84EC-F34895A88E59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F34A750-33A6-436E-84EC-F34895A88E59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F34A750-33A6-436E-84EC-F34895A88E59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F34A750-33A6-436E-84EC-F34895A88E59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A9178560-E565-4309-A268-CA1C70B468D6} = {27EF8C93-D4CE-4DD5-B82D-B0366194D8EF}
+		{EC7290E7-1E52-4350-9C55-59A5FFFD48BC} = {27EF8C93-D4CE-4DD5-B82D-B0366194D8EF}
+		{0CE07712-8255-48F2-AA2E-816284EA97EE} = {27EF8C93-D4CE-4DD5-B82D-B0366194D8EF}
+		{32CF8D76-16A6-40FD-801D-87E120D3DBF8} = {A9178560-E565-4309-A268-CA1C70B468D6}
+		{2217F9F4-0B0C-4217-9ABB-F2D71308A687} = {EC7290E7-1E52-4350-9C55-59A5FFFD48BC}
+		{7177ED54-E132-43E5-98A3-08888F051D29} = {EC7290E7-1E52-4350-9C55-59A5FFFD48BC}
+		{B834BD6B-E4B7-4EC7-9F05-37518ECAE408} = {0CE07712-8255-48F2-AA2E-816284EA97EE}
+		{47F5EDCC-B7D3-498E-BFF7-A83A07F8E8CD} = {B834BD6B-E4B7-4EC7-9F05-37518ECAE408}
+		{4F34A750-33A6-436E-84EC-F34895A88E59} = {806BCA93-CD67-49CC-9914-7027BC34952D}
+	EndGlobalSection
+EndGlobal

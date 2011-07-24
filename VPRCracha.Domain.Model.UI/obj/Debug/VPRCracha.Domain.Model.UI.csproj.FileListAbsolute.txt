@@ -1,0 +1,25 @@
+C:\Users\cadu\Documents\Visual Studio 2010\Projects\VPRCracha\VPRCracha.Domain.Model.UI\bin\VPRCracha.Domain.Model.UI.dll
+C:\Users\cadu\Documents\Visual Studio 2010\Projects\VPRCracha\VPRCracha.Domain.Model.UI\bin\VPRCracha.Domain.Model.UI.pdb
+C:\Users\cadu\Documents\Visual Studio 2010\Projects\VPRCracha\VPRCracha.Domain.Model.UI\bin\Telerik.Web.Mvc.dll
+C:\Users\cadu\Documents\Visual Studio 2010\Projects\VPRCracha\VPRCracha.Domain.Model.UI\bin\Telerik.Web.Mvc.xml
+C:\Users\cadu\Documents\Visual Studio 2010\Projects\VPRCracha\VPRCracha.Domain.Model.UI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cadu\Documents\Visual Studio 2010\Projects\VPRCracha\VPRCracha.Domain.Model.UI\obj\Debug\VPRCracha.Domain.Model.UI.dll
+C:\Users\cadu\Documents\Visual Studio 2010\Projects\VPRCracha\VPRCracha.Domain.Model.UI\obj\Debug\VPRCracha.Domain.Model.UI.pdb
+C:\Users\cadu\Documents\Visual Studio 2010\Projects\VPRCracha\VPRCracha.Domain.Model.UI\bin\VPRCracha.Domain.Model.dll
+C:\Users\cadu\Documents\Visual Studio 2010\Projects\VPRCracha\VPRCracha.Domain.Model.UI\bin\VPRCracha.Domain.Model.pdb
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Domain.Model.UI\bin\VPRCracha.Domain.Model.UI.dll
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Domain.Model.UI\bin\VPRCracha.Domain.Model.UI.pdb
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Domain.Model.UI\bin\Telerik.Web.Mvc.dll
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Domain.Model.UI\bin\VPRCracha.Domain.Model.dll
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Domain.Model.UI\bin\VPRCracha.Domain.Model.Repository.SQServer.dll
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Domain.Model.UI\bin\FluentNHibernate.dll
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Domain.Model.UI\bin\NHibernate.dll
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Domain.Model.UI\bin\Iesi.Collections.dll
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Domain.Model.UI\bin\VPRCracha.Domain.Model.Repository.SQServer.pdb
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Domain.Model.UI\bin\VPRCracha.Domain.Model.pdb
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Domain.Model.UI\bin\Telerik.Web.Mvc.xml
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Domain.Model.UI\bin\FluentNHibernate.pdb
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Domain.Model.UI\bin\Iesi.Collections.pdb
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Domain.Model.UI\obj\Debug\ResolveAssemblyReference.cache
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Domain.Model.UI\obj\Debug\VPRCracha.Domain.Model.UI.dll
+C:\Cadu\VPR\VPRCracha\VPRCracha\VPRCracha.Domain.Model.UI\obj\Debug\VPRCracha.Domain.Model.UI.pdb
